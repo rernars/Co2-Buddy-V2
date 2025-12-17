@@ -1,3 +1,6 @@
+<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/1a9a07a7-6212-48ef-9159-63d5637df0e7" />
+
+
 Indoor air quality matters more than ever — especially CO₂ levels, which strongly affect concentration, fatigue, and overall comfort. I wanted a compact, always-on desktop gadget that gives at-a-glance feedback using both a small OLED screen and a glowing LED ring.
 
 This project combines the Infineon PAS CO₂ sensor, an ESP32-C3 Super Mini, a 0.96" OLED, and a 12-pixel NeoPixel ring, all inside a custom 3D-printed enclosure. It runs entirely from USB power and updates every 5 seconds.
